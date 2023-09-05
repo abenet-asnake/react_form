@@ -4,8 +4,6 @@ const FormInput =  (props) => {
     <div className="formInput">
           <label>Full Name</label>
           <input placeholder={props.placeholder}/>
-          
-          
      </div>
    )
 }
